@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3709fdd6-048c-4621-b3ba-8ba39a4bca86" name="Changes" comment="Selenium Learnings new">
-      <change afterPath="$PROJECT_DIR$/src/chrome_options.py" afterDir="false" />
+    <list default="true" id="3709fdd6-048c-4621-b3ba-8ba39a4bca86" name="Changes" comment="Chorome Options">
+      <change afterPath="$PROJECT_DIR$/src/testmakeappointment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for chrome_options.test_chr_options">
+  <component name="RunManager" selected="Python tests.Python tests for testmakeappointment.test_make_appointment">
     <configuration name="Python tests for chrome_options.test_chr_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SeleniumpythonLearnings" />
       <option name="ENV_FILES" value="" />
@@ -103,8 +103,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for testmakeappointment.test_make_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumpythonLearnings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testmakeappointment.test_make_appointment&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for testmakeappointment.test_make_appointment" />
         <item itemvalue="Python tests.Python tests for chrome_options.test_chr_options" />
         <item itemvalue="Python tests.Python tests for chrome_options.test_chrome_options" />
         <item itemvalue="Python tests.Python tests for open_browser.test_open_browser" />
@@ -143,13 +159,30 @@
       <option name="project" value="LOCAL" />
       <updated>1730640555634</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chorome Options">
+      <option name="closed" value="true" />
+      <created>1730646897059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730646897059</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chorome Options">
+      <option name="closed" value="true" />
+      <created>1730647163789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730647163789</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Selenium Learnings" />
     <MESSAGE value="Selenium Learnings new" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium Learnings new" />
+    <MESSAGE value="Chorome Options" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chorome Options" />
   </component>
 </project>
