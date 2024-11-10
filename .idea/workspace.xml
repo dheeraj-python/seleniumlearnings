@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3709fdd6-048c-4621-b3ba-8ba39a4bca86" name="Changes" comment="MakeAPpointmentPage Practise">
-      <change afterPath="$PROJECT_DIR$/src/loginfunctionality.py" afterDir="false" />
+    <list default="true" id="3709fdd6-048c-4621-b3ba-8ba39a4bca86" name="Changes" comment="LOGIN Test">
+      <change afterPath="$PROJECT_DIR$/src/awsomeqa_registration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +49,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for awsomeqa_registration.test_with_registration.executor": "Run",
     "Python tests.Python tests for chrome_options.test_chr_options.executor": "Run",
     "Python tests.Python tests for chrome_options.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for loginfunctionality.test_make_appointment_with_login.executor": "Run",
     "Python tests.Python tests for open_browser.test_open_browser.executor": "Run",
     "Python tests.Python tests for testmakeappointment.test_make_appointment.executor": "Run",
     "Python.open_browser.executor": "Run",
@@ -64,7 +66,22 @@
       <recent name="C:\Users\DheerajPC\PycharmProjects\SeleniumpythonLearnings\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for loginfunctionality.test_make_appointment_with_login">
+  <component name="RunManager" selected="Python tests.Python tests for awsomeqa_registration.test_with_registration">
+    <configuration name="Python tests for awsomeqa_registration.test_with_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumpythonLearnings" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;awsomeqa_registration.test_with_registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for chrome_options.test_chr_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SeleniumpythonLearnings" />
       <option name="ENV_FILES" value="" />
@@ -110,21 +127,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for open_browser.test_open_browser" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumpythonLearnings" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;open_browser.test_open_browser&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for testmakeappointment.test_make_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SeleniumpythonLearnings" />
       <option name="ENV_FILES" value="" />
@@ -142,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for awsomeqa_registration.test_with_registration" />
         <item itemvalue="Python tests.Python tests for loginfunctionality.test_make_appointment_with_login" />
         <item itemvalue="Python tests.Python tests for testmakeappointment.test_make_appointment" />
         <item itemvalue="Python tests.Python tests for chrome_options.test_chr_options" />
         <item itemvalue="Python tests.Python tests for chrome_options.test_chrome_options" />
-        <item itemvalue="Python tests.Python tests for open_browser.test_open_browser" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730731802048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="LOGIN Test">
+      <option name="closed" value="true" />
+      <created>1730732769618</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730732769618</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +225,7 @@
     <MESSAGE value="Selenium Learnings new" />
     <MESSAGE value="Chorome Options" />
     <MESSAGE value="MakeAPpointmentPage Practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="MakeAPpointmentPage Practise" />
+    <MESSAGE value="LOGIN Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="LOGIN Test" />
   </component>
 </project>
