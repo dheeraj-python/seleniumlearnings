@@ -30,7 +30,7 @@ def test_with_registration():
     time.sleep(5)
     source_page = driver.page_source
     assert "Your Account Has Been Created!" in source_page
-    #print(source_page)
+    #awsomeqa_registration.pyprint(source_page)
 
     #assert driver.find_element(By.__text_signature__, "Your Account Has Been Created!")
     #assert driver.page_source == "Your Account Has Been Created!"
