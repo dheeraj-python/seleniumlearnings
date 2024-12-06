@@ -25,7 +25,14 @@ def test_webtable_part01():
     for i in range(2, row + 1):
         for j in range(1, col + 1):
             dynamic_path = f"{first_part}{i}{second_part}{j}{third_part}"
-            new_data = driver.find_element(By.XPATH,dynamic_path)
+            new_data = driver.find_element(By.XPATH,dynamic_path).text
             print(new_data, end=" ")
+
+            #if you want to find any single element in the web table
+
+            if "Island Trading" in new_data:
+                contact_path = f"{dynamic_path}/following-sibling::td"
+                contact_test = driver.find_element(By.XPATH, contact_path).text
+                print(f"Hellen Bennett in {contact_test}")
 
 
