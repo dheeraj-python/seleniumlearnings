@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3709fdd6-048c-4621-b3ba-8ba39a4bca86" name="Changes" comment="Registration Page Automation Script Created">
-      <change afterPath="$PROJECT_DIR$/src/ebaysearch.py" afterDir="false" />
+    <list default="true" id="3709fdd6-048c-4621-b3ba-8ba39a4bca86" name="Changes" comment="webtable Excercise11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/awsomeqa_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/awsomeqa_registration.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +55,7 @@
     "Python tests.Python tests for loginfunctionality.test_make_appointment_with_login.executor": "Run",
     "Python tests.Python tests for open_browser.test_open_browser.executor": "Run",
     "Python tests.Python tests for test_task_19-Oct.test_ebay.executor": "Run",
+    "Python tests.Python tests for test_webtable_part01.test_webtable_part01.executor": "Run",
     "Python tests.Python tests for testmakeappointment.test_make_appointment.executor": "Run",
     "Python.open_browser.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,7 +68,7 @@
       <recent name="C:\Users\DheerajPC\PycharmProjects\SeleniumpythonLearnings\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for ebaysearch.test_ebay_site">
+  <component name="RunManager" selected="Python tests.Python tests for test_webtable_part01.test_webtable_part01">
     <configuration name="Python tests for awsomeqa_registration.test_with_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SeleniumpythonLearnings" />
       <option name="ENV_FILES" value="" />
@@ -130,7 +129,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for testmakeappointment.test_make_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_webtable_part01.test_webtable_part01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SeleniumpythonLearnings" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,17 +140,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testmakeappointment.test_make_appointment&quot;" />
+      <option name="_new_target" value="&quot;test_webtable_part01.test_webtable_part01&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_webtable_part01.test_webtable_part01" />
         <item itemvalue="Python tests.Python tests for ebaysearch.test_ebay_site" />
         <item itemvalue="Python tests.Python tests for test_task_19-Oct.test_ebay" />
         <item itemvalue="Python tests.Python tests for awsomeqa_registration.test_with_registration" />
         <item itemvalue="Python tests.Python tests for loginfunctionality.test_make_appointment_with_login" />
-        <item itemvalue="Python tests.Python tests for testmakeappointment.test_make_appointment" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +226,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731251668651</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task - Ebay Search">
+      <option name="closed" value="true" />
+      <created>1732464182147</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732464182147</updated>
+    </task>
+    <task id="LOCAL-00009" summary="webtable Excercise">
+      <option name="closed" value="true" />
+      <created>1733511731829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733511731829</updated>
+    </task>
+    <task id="LOCAL-00010" summary="webtable Excercise11">
+      <option name="closed" value="true" />
+      <created>1733513329012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733513329017</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +261,9 @@
     <MESSAGE value="MakeAPpointmentPage Practise" />
     <MESSAGE value="LOGIN Test" />
     <MESSAGE value="Registration Page Automation Script Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Registration Page Automation Script Created" />
+    <MESSAGE value="Task - Ebay Search" />
+    <MESSAGE value="webtable Excercise" />
+    <MESSAGE value="webtable Excercise11" />
+    <option name="LAST_COMMIT_MESSAGE" value="webtable Excercise11" />
   </component>
 </project>
